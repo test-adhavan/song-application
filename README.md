@@ -43,7 +43,3 @@ Two tables are used:
 ## Author
 
 Adhavan M
-
-h## Author
-
-Adhavan M
